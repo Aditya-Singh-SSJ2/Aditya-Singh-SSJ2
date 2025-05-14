@@ -4,9 +4,7 @@
 
 👀 Passionate about Robotics, Image Processing, and Scalable Software Architectures
 
-🌱 Currently exploring Competitive Programming and Cloud-Native Development
-
-🎥 I create educational content on ML, .NET, Robotics, and coding concepts: [YouTube/@AdiTOSH](https://www.youtube.com/@AdiTOSH)
+🌱 Currently exploring Cloud-Native Development
 
 🤝 Let’s connect: [LinkedIn](https://www.linkedin.com/in/aditya-singh-243ba8197)
 
