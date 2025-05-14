@@ -1,9 +1,13 @@
 🔧 Software Engineer @Microsoft | Robotics & ML Enthusiast
 
 👋 Hi, I’m Aditya Singh
+
 👀 Passionate about Robotics, Image Processing, and Scalable Software Architectures
+
 🌱 Currently exploring Competitive Programming and Cloud-Native Development
+
 🎥 I create educational content on ML, .NET, and Robotics: [YouTube/@AdiTOSH](https://www.youtube.com/@AdiTOSH)
+
 🤝 Let’s connect: [LinkedIn](https://www.linkedin.com/in/aditya-singh-243ba8197)
 
 <!---
